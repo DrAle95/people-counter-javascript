@@ -1,15 +1,20 @@
 body {
-    background-image: url("https://images.unsplash.com/photo-1601571434557-bf14a909f174?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=360&q=80");
+    background-image: url("https://images.wallpaperscraft.com/image/single/ruins_man_loneliness_124279_1920x1080.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
-    font-family: -apple-system, BlinkMacSystemFont, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
 }
 
-div {
+.container {
     width: max;
+    background-color: white;
+    border-radius: 15px;
+    max-width: 80%;
+    margin: auto;
+    border: 1px solid black;
 }
 
 h1 {
